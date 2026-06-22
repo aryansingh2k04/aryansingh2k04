@@ -88,11 +88,11 @@ A decentralized event ticketing platform using ERC721 smart contracts, React, Et
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AryanSingh2k4\&theme=radical\&hide_border=true\&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=aryansingh2k04\&theme=radical\&hide_border=true\&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AryanSingh2k4\&theme=radical\&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryansingh2k04\&theme=radical\&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSingh2k4\&theme=radical\&hide_border=true\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansingh2k04\&theme=radical\&hide_border=true\&layout=compact)
 
 ---
 
